@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\MinimalAPI\\MinimalAPIDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|c:\\users\\admin\\documents\\github\\minimalapi\\minimalapidemo\\magicvilla_couponapi\\endpoints\\couponendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|solutionrelative:magicvilla_couponapi\\endpoints\\couponendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|c:\\users\\admin\\documents\\github\\minimalapi\\minimalapidemo\\magicvilla_couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|solutionrelative:magicvilla_couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|c:\\users\\admin\\documents\\github\\minimalapi\\minimalapidemo\\magicvilla_couponapi\\repository\\irepository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|solutionrelative:magicvilla_couponapi\\repository\\irepository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|c:\\users\\admin\\documents\\github\\minimalapi\\minimalapidemo\\magicvilla_couponapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|solutionrelative:magicvilla_couponapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|c:\\users\\admin\\documents\\github\\minimalapi\\minimalapidemo\\magicvilla_couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|solutionrelative:magicvilla_couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,52 +34,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MappingConfig.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\MinimalAPI\\MinimalAPIDemo\\MagicVilla_CouponAPI\\MappingConfig.cs",
-              "RelativeDocumentMoniker": "MagicVilla_CouponAPI\\MappingConfig.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\MinimalAPI\\MinimalAPIDemo\\MagicVilla_CouponAPI\\MappingConfig.cs",
-              "RelativeToolTip": "MagicVilla_CouponAPI\\MappingConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "DocumentIndex": 0,
+              "Title": "CouponEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\MinimalAPI\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Endpoints\\CouponEndpoints.cs",
+              "RelativeDocumentMoniker": "MagicVilla_CouponAPI\\Endpoints\\CouponEndpoints.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\MinimalAPI\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Endpoints\\CouponEndpoints.cs",
+              "RelativeToolTip": "MagicVilla_CouponAPI\\Endpoints\\CouponEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T06:41:08.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CouponRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\MinimalAPI\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Repository\\CouponRepository.cs",
-              "RelativeDocumentMoniker": "MagicVilla_CouponAPI\\Repository\\CouponRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\MinimalAPI\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Repository\\CouponRepository.cs",
-              "RelativeToolTip": "MagicVilla_CouponAPI\\Repository\\CouponRepository.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAgwC8AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T06:05:10.102Z",
+              "WhenOpened": "2024-07-10T07:10:18.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ICouponRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\MinimalAPI\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Repository\\IRepository\\ICouponRepository.cs",
-              "RelativeDocumentMoniker": "MagicVilla_CouponAPI\\Repository\\IRepository\\ICouponRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\MinimalAPI\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Repository\\IRepository\\ICouponRepository.cs",
-              "RelativeToolTip": "MagicVilla_CouponAPI\\Repository\\IRepository\\ICouponRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T05:57:48.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\MinimalAPI\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Program.cs",
               "RelativeDocumentMoniker": "MagicVilla_CouponAPI\\Program.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\MinimalAPI\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Program.cs",
               "RelativeToolTip": "MagicVilla_CouponAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T05:48:51.855Z",
               "EditorCaption": ""
