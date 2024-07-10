@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RoP2dbBk7DQ=",
+  "dgSpecHash": "EDtJxOLZprM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\MinimalAPIDemo\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Documents\\GitHub\\MinimalAPI\\MinimalAPIDemo\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
