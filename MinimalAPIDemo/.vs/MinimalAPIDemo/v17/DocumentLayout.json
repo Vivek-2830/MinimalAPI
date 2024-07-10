@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\MinimalAPIDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|c:\\users\\admin\\documents\\minimalapidemo\\magicvilla_couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|solutionrelative:magicvilla_couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|c:\\users\\admin\\documents\\minimalapidemo\\magicvilla_couponapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|solutionrelative:magicvilla_couponapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|c:\\users\\admin\\documents\\minimalapidemo\\magicvilla_couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|solutionrelative:magicvilla_couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|c:\\users\\admin\\documents\\minimalapidemo\\magicvilla_couponapi\\models\\dto\\couponupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|solutionrelative:magicvilla_couponapi\\models\\dto\\couponupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|c:\\users\\admin\\documents\\minimalapidemo\\magicvilla_couponapi\\validations\\couponupdatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|solutionrelative:magicvilla_couponapi\\validations\\couponupdatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|c:\\users\\admin\\documents\\minimalapidemo\\magicvilla_couponapi\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|solutionrelative:magicvilla_couponapi\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|c:\\users\\admin\\documents\\minimalapidemo\\magicvilla_couponapi\\migrations\\20240709121730_addcoupontodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DA32C6-678A-4A71-8310-2E842560352C}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|solutionrelative:magicvilla_couponapi\\migrations\\20240709121730_addcoupontodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240709121730_AddCouponToDb.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Migrations\\20240709121730_AddCouponToDb.cs",
+              "RelativeDocumentMoniker": "MagicVilla_CouponAPI\\Migrations\\20240709121730_AddCouponToDb.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Migrations\\20240709121730_AddCouponToDb.cs",
+              "RelativeToolTip": "MagicVilla_CouponAPI\\Migrations\\20240709121730_AddCouponToDb.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:17:30.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MagicVilla_CouponAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MagicVilla_CouponAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:05:34.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\MinimalAPIDemo\\MagicVilla_CouponAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MagicVilla_CouponAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Documents\\MinimalAPIDemo\\MagicVilla_CouponAPI\\appsettings.json",
+              "RelativeToolTip": "MagicVilla_CouponAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T12:02:38.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CouponUpdateValidation.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Validations\\CouponUpdateValidation.cs",
+              "RelativeDocumentMoniker": "MagicVilla_CouponAPI\\Validations\\CouponUpdateValidation.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Validations\\CouponUpdateValidation.cs",
+              "RelativeToolTip": "MagicVilla_CouponAPI\\Validations\\CouponUpdateValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:13:03.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CouponUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Models\\DTO\\CouponUpdateDTO.cs",
+              "RelativeDocumentMoniker": "MagicVilla_CouponAPI\\Models\\DTO\\CouponUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Models\\DTO\\CouponUpdateDTO.cs",
+              "RelativeToolTip": "MagicVilla_CouponAPI\\Models\\DTO\\CouponUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:09:31.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Models\\APIResponse.cs",
+              "RelativeDocumentMoniker": "MagicVilla_CouponAPI\\Models\\APIResponse.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Models\\APIResponse.cs",
+              "RelativeToolTip": "MagicVilla_CouponAPI\\Models\\APIResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:37:07.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MagicVilla_CouponAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\MinimalAPIDemo\\MagicVilla_CouponAPI\\Program.cs",
+              "RelativeToolTip": "MagicVilla_CouponAPI\\Program.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:48:51.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
