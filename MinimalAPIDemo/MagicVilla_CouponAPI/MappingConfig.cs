@@ -12,6 +12,7 @@ namespace MagicVilla_CouponAPI
             CreateMap<Coupon,CouponCreateDTO>().ReverseMap();
             CreateMap<Coupon,CouponUpateDTO>().ReverseMap();
             CreateMap<Coupon,CouponDTO>().ReverseMap();
+            CreateMap<LocalUser,UserDTO>().ReverseMap();
         }
     }
 }

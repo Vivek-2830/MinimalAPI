@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MagicVilla_CouponAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2f4281b3438f22dc760613c8a165758836c9d28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79eef6f43e8f64a8678653fc46765928071737dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("MagicVilla_CouponAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MagicVilla_CouponAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

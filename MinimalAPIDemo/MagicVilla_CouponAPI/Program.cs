@@ -18,6 +18,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<ICouponRepository, CouponRepository>();
+builder.Services.AddScoped<IAuthRepository, AuthRepository>();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddAutoMapper(typeof(MappingConfig));
@@ -31,8 +32,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.ConfigureCouponEndpoints();
+//app.UseAuthentication();
+//app.UseAuthorization();
 
+app.ConfigureCouponEndpoints();
+app.ConfigureAuthEndpoints();
 app.UseHttpsRedirection();
 
 app.Run();
