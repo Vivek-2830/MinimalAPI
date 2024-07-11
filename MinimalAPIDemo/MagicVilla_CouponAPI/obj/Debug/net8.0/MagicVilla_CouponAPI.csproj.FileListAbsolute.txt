@@ -281,3 +281,4 @@ C:\Users\admin\Documents\GitHub\MinimalAPI\MinimalAPIDemo\MagicVilla_CouponAPI\o
 C:\Users\admin\Documents\GitHub\MinimalAPI\MinimalAPIDemo\MagicVilla_CouponAPI\obj\Debug\net8.0\MagicVilla_CouponAPI.pdb
 C:\Users\admin\Documents\GitHub\MinimalAPI\MinimalAPIDemo\MagicVilla_CouponAPI\obj\Debug\net8.0\MagicVilla_CouponAPI.genruntimeconfig.cache
 C:\Users\admin\Documents\GitHub\MinimalAPI\MinimalAPIDemo\MagicVilla_CouponAPI\obj\Debug\net8.0\ref\MagicVilla_CouponAPI.dll
+C:\Users\admin\Documents\GitHub\MinimalAPI\MinimalAPIDemo\MagicVilla_CouponAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
