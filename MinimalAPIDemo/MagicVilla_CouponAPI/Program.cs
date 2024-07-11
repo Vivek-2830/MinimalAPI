@@ -76,7 +76,10 @@ builder.Services.AddAuthentication(x =>
         ValidateAudience = false
     };
 });
-builder.Services.AddAuthorization();
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("AdminOnly", policy => policy.RequireRole("admin"));
+});
 
 var app = builder.Build();
 
@@ -94,9 +97,28 @@ app.ConfigureCouponEndpoints();
 app.ConfigureAuthEndpoints();
 app.UseHttpsRedirection();
 
+
+app.MapGet("/api/coupon/special", ([AsParameters] CouponRequest req, ApplicationDbContext _db) =>
+{
+    if (req.CouponName != null)
+    {
+        return _db.Coupons.Where(u => u.Name.Contains(req.CouponName)).Skip((req.Page - 1) * req.PageSize).Take(req.PageSize);
+    }
+    return _db.Coupons.Skip((req.Page - 1) * req.PageSize).Take(req.PageSize);
+});
+
+
 app.Run();
 
-
+class CouponRequest
+{
+    public string CouponName { get; set; }
+    [FromHeader(Name = "PageSize")]
+    public int PageSize { get; set; }
+    [FromHeader(Name = "Page")]
+    public int Page { get; set; }
+    public ILogger<CouponRequest> Logger { get; set; }
+}
 
 
 //app.MapGet("/helloworld/{id:int}", (int id) =>
